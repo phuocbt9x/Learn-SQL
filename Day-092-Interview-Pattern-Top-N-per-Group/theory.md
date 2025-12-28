@@ -94,4 +94,7 @@ Cần hiển thị top 3 products mỗi category trên homepage.
 
 
 
-**Chuẩn bị cho [Day-093: Interview-Pattern-Running-Totals](Day-093-Interview-Pattern-Running-Totals/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-093: Interview-Pattern-Running-Totals](../Day-093-Interview-Pattern-Running-Totals/theory.md)** 🚀

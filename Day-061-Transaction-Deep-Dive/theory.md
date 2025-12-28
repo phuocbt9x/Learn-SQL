@@ -75,4 +75,7 @@ Dùng savepoints → rollback đến điểm cụ thể → giữ được một
 
 
 
-**Chuẩn bị cho [Day-062: Isolation-READ-UNCOMMITTED](Day-062-Isolation-READ-UNCOMMITTED/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-062: Isolation-READ-UNCOMMITTED](../Day-062-Isolation-READ-UNCOMMITTED/theory.md)** 🚀

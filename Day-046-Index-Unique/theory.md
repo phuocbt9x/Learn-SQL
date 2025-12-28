@@ -70,4 +70,7 @@ Tạo unique index → prevent duplicates → data integrity.
 
 
 
-**Chuẩn bị cho [Day-047: Index-Covering](Day-047-Index-Covering/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-047: Index-Covering](../Day-047-Index-Covering/theory.md)** 🚀

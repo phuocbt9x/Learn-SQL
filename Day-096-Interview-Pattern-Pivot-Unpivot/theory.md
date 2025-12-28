@@ -95,4 +95,7 @@ Cần sales report với months làm columns → dùng pivot.
 
 
 
-**Chuẩn bị cho [Day-097: Interview-Pattern-Recursive-Queries](Day-097-Interview-Pattern-Recursive-Queries/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-097: Interview-Pattern-Recursive-Queries](../Day-097-Interview-Pattern-Recursive-Queries/theory.md)** 🚀

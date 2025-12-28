@@ -83,4 +83,7 @@ Dùng `LIKE 'pattern%'` → có thể dùng index → nhanh hơn.
 
 
 
-**Chuẩn bị cho [Day-035: Date-Time-Functions](Day-035-Date-Time-Functions/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-035: Date-Time-Functions](../Day-035-Date-Time-Functions/theory.md)** 🚀

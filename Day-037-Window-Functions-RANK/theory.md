@@ -79,4 +79,7 @@ Dùng ROW_NUMBER() với PARTITION BY → đơn giản, hiệu quả.
 
 
 
-**Chuẩn bị cho [Day-038: Window-Functions-Aggregate](Day-038-Window-Functions-Aggregate/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-038: Window-Functions-Aggregate](../Day-038-Window-Functions-Aggregate/theory.md)** 🚀

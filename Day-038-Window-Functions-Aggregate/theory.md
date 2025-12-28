@@ -86,4 +86,7 @@ Dùng Window Functions → nhanh 0.5s.
 
 
 
-**Chuẩn bị cho [Day-039: Window-Functions-LAG-LEAD](Day-039-Window-Functions-LAG-LEAD/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-039: Window-Functions-LAG-LEAD](../Day-039-Window-Functions-LAG-LEAD/theory.md)** 🚀

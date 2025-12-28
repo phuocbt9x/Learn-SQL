@@ -330,4 +330,7 @@ LIMIT 10;
 
 
 
-**Chuẩn bị cho [Day-016: SELECT-Basics](Day-016-SELECT-Basics/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-016: SELECT-Basics](../Day-016-SELECT-Basics/theory.md)** 🚀

@@ -61,4 +61,7 @@ SELECT created_at AT TIME ZONE 'UTC' FROM orders;
 **Chuẩn bị cho Phase 2.5!** 🚀
 
 
-**Chuẩn bị cho [Day-036: Window-Functions-Intro](Day-036-Window-Functions-Intro/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-036: Window-Functions-Intro](../Day-036-Window-Functions-Intro/theory.md)** 🚀

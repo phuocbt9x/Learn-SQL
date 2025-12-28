@@ -79,4 +79,7 @@ Tạo AFTER trigger → log mọi UPDATE/DELETE → audit trail tự động.
 
 
 
-**Chuẩn bị cho [Day-085: Views](Day-085-Views/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-085: Views](../Day-085-Views/theory.md)** 🚀

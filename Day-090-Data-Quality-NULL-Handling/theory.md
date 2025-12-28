@@ -85,4 +85,7 @@ Query tính total không xử lý NULL → return NULL thay vì 0.
 **Chuẩn bị cho Phase 5.4!** 🚀
 
 
-**Chuẩn bị cho [Day-091: Data-Quality-Data-Validation](Day-091-Data-Quality-Data-Validation/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-091: Data-Quality-Data-Validation](../Day-091-Data-Quality-Data-Validation/theory.md)** 🚀

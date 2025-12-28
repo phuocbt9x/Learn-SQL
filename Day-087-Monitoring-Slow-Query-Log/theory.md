@@ -105,4 +105,7 @@ Database chậm → users phàn nàn → cần tìm và fix slow queries.
 
 
 
-**Chuẩn bị cho [Day-088: Monitoring-Query-Metrics](Day-088-Monitoring-Query-Metrics/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-088: Monitoring-Query-Metrics](../Day-088-Monitoring-Query-Metrics/theory.md)** 🚀

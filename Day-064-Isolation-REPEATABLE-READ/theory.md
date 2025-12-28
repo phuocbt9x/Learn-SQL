@@ -65,4 +65,7 @@ COMMIT;
 
 
 
-**Chuẩn bị cho [Day-065: Isolation-SERIALIZABLE](Day-065-Isolation-SERIALIZABLE/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-065: Isolation-SERIALIZABLE](../Day-065-Isolation-SERIALIZABLE/theory.md)** 🚀

@@ -65,4 +65,7 @@ Query scan 1 triệu rows nhưng chỉ return 10 rows → chậm.
 
 
 
-**Chuẩn bị cho [Day-089: SQL-Injection-Security](Day-089-SQL-Injection-Security/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-089: SQL-Injection-Security](../Day-089-SQL-Injection-Security/theory.md)** 🚀

@@ -59,4 +59,7 @@ Full Table Scan không phải lúc nào cũng xấu.
 
 
 
-**Chuẩn bị cho [Day-049: Query-Performance-Join-Algorithms](Day-049-Query-Performance-Join-Algorithms/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-049: Query-Performance-Join-Algorithms](../Day-049-Query-Performance-Join-Algorithms/theory.md)** 🚀

@@ -206,4 +206,7 @@ WHERE status = 'completed';
 
 
 
-**Chuẩn bị cho [Day-022: GROUP-BY](Day-022-GROUP-BY/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-022: GROUP-BY](../Day-022-GROUP-BY/theory.md)** 🚀

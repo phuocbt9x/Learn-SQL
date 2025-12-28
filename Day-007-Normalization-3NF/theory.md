@@ -691,4 +691,7 @@ def get_order_with_user(order_id):
 
 
 
-**Chuẩn bị cho [Day-008: Data-Types-Storage](Day-008-Data-Types-Storage/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-008: Data-Types-Storage](../Day-008-Data-Types-Storage/theory.md)** 🚀

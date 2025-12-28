@@ -740,4 +740,7 @@ CREATE TABLE employees (
 
 
 
-**Chuẩn bị cho [Day-005: Normalization-1NF](Day-005-Normalization-1NF/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-005: Normalization-1NF](../Day-005-Normalization-1NF/theory.md)** 🚀

@@ -77,4 +77,7 @@ Data warehouse query với 10+ JOINs → chậm.
 
 
 
-**Chuẩn bị cho [Day-099: Interview-Pattern-Data-Deduplication](Day-099-Interview-Pattern-Data-Deduplication/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-099: Interview-Pattern-Data-Deduplication](../Day-099-Interview-Pattern-Data-Deduplication/theory.md)** 🚀

@@ -69,4 +69,7 @@ Tạo indexes trên JOIN columns → query nhanh 0.5s.
 
 
 
-**Chuẩn bị cho [Day-028: Subquery-Scalar](Day-028-Subquery-Scalar/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-028: Subquery-Scalar](../Day-028-Subquery-Scalar/theory.md)** 🚀

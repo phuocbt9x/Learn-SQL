@@ -73,4 +73,7 @@ Tránh table lock trong production, dùng row-level lock khi có thể.
 
 
 
-**Chuẩn bị cho [Day-068: Deadlock](Day-068-Deadlock/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-068: Deadlock](../Day-068-Deadlock/theory.md)** 🚀

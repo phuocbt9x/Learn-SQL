@@ -73,4 +73,7 @@ Chia transaction → short transactions → không block.
 **Chuẩn bị cho Phase 4.3!** 🚀
 
 
-**Chuẩn bị cho [Day-071: Lock-Contention](Day-071-Lock-Contention/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-071: Lock-Contention](../Day-071-Lock-Contention/theory.md)** 🚀

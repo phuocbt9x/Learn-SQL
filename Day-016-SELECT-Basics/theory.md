@@ -370,4 +370,7 @@ Execution Time: 0.123 ms
 
 
 
-**Chuẩn bị cho [Day-017: WHERE-Clause](Day-017-WHERE-Clause/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-017: WHERE-Clause](../Day-017-WHERE-Clause/theory.md)** 🚀

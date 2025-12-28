@@ -75,4 +75,7 @@ Sau Day này, bạn sẽ:
 **Chuẩn bị cho Phase 3: Advanced SQL & Performance** 🚀
 
 
-**Chuẩn bị cho [Day-041: EXPLAIN-Execution-Plan](Day-041-EXPLAIN-Execution-Plan/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-041: EXPLAIN-Execution-Plan](../Day-041-EXPLAIN-Execution-Plan/theory.md)** 🚀

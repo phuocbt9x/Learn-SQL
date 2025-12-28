@@ -429,4 +429,7 @@ CREATE TABLE orders_2024_01 PARTITION OF orders
 
 
 
-**Chuẩn bị cho [Day-011: SQL-Execution-Flow](Day-011-SQL-Execution-Flow/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-011: SQL-Execution-Flow](../Day-011-SQL-Execution-Flow/theory.md)** 🚀

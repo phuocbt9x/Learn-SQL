@@ -59,4 +59,7 @@ Sau Day này, bạn sẽ hiểu:
 
 ---
 
-**Chuẩn bị cho [Day-051: Query-Optimization-WHERE](Day-051-Query-Optimization-WHERE/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-051: Query-Optimization-WHERE](../Day-051-Query-Optimization-WHERE/theory.md)** 🚀

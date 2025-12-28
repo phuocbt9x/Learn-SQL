@@ -77,4 +77,7 @@ Có duplicate users → cần cleanup → dùng deduplication.
 
 
 
-**Chuẩn bị cho [Day-100: Final-Review-Senior-SQL-Engineer-Checklist](Day-100-Final-Review-Senior-SQL-Engineer-Checklist/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-100: Final-Review-Senior-SQL-Engineer-Checklist](../Day-100-Final-Review-Senior-SQL-Engineer-Checklist/theory.md)** 🚀

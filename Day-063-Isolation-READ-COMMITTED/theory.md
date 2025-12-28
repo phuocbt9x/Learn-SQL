@@ -75,4 +75,7 @@ READ COMMITTED → Non-repeatable Read → data không nhất quán.
 
 
 
-**Chuẩn bị cho [Day-064: Isolation-REPEATABLE-READ](Day-064-Isolation-REPEATABLE-READ/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-064: Isolation-REPEATABLE-READ](../Day-064-Isolation-REPEATABLE-READ/theory.md)** 🚀

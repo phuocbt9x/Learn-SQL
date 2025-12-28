@@ -73,4 +73,7 @@ Dùng EXPLAIN → phát hiện Seq Scan → tạo index → query nhanh 0.1s.
 
 
 
-**Chuẩn bị cho [Day-042: EXPLAIN-ANALYZE](Day-042-EXPLAIN-ANALYZE/theory.md)** 🚀
+
+
+
+**Chuẩn bị cho [Day-042: EXPLAIN-ANALYZE](../Day-042-EXPLAIN-ANALYZE/theory.md)** 🚀
