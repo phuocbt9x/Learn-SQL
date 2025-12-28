@@ -70,4 +70,6 @@ Update statistics → Planner estimate đúng → chọn plan đúng → query n
 
 ---
 
-**Chuẩn bị cho Day-043: Index Types - B-Tree Index** 🚀
+
+
+**Chuẩn bị cho [Day-043: Index-B-Tree](../Day-043-Index-B-Tree/theory.md)** 🚀

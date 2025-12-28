@@ -346,5 +346,7 @@ COMMIT;  -- Hoặc ROLLBACK nếu lỗi
 
 ---
 
-**Chuẩn bị cho Day-014: Transaction - Cơ bản** 🚀
 
+
+
+**Chuẩn bị cho [Day-014: Transaction-Basics](../Day-014-Transaction-Basics/theory.md)** 🚀

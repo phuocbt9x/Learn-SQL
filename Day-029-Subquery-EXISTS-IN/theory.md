@@ -64,4 +64,6 @@ Query dùng IN → chậm 10s.
 
 ---
 
-**Chuẩn bị cho Day-030: Subquery - Correlated Subquery** 🚀
+
+
+**Chuẩn bị cho [Day-030: Subquery-Advanced](../Day-030-Subquery-Advanced/theory.md)** 🚀

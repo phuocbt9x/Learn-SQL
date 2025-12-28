@@ -72,4 +72,6 @@ MVCC đảm bảo không có Dirty Read → READ UNCOMMITTED = READ COMMITTED.
 
 ---
 
-**Chuẩn bị cho Day-070: Long-running Transactions** 🚀
+
+
+**Chuẩn bị cho [Day-070: Long-running-Transactions](../Day-070-Long-running-Transactions/theory.md)** 🚀

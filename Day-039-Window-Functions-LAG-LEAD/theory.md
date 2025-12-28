@@ -75,4 +75,6 @@ Dùng LAG() → đơn giản, hiệu quả.
 
 ---
 
-**Chuẩn bị cho Day-040: Review Phase 2** 🚀
+
+
+**Chuẩn bị cho [Day-040: Review-Phase2](../Day-040-Review-Phase2/theory.md)** 🚀

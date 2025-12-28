@@ -77,4 +77,6 @@ SELECT chỉ 5 columns cần thiết → query nhanh 0.5s, tốn 25MB memory.
 
 ---
 
-**Chuẩn bị cho Day-054: Query Optimization - LIMIT optimization** 🚀
+
+
+**Chuẩn bị cho [Day-054: Query-Optimization-LIMIT](../Day-054-Query-Optimization-LIMIT/theory.md)** 🚀

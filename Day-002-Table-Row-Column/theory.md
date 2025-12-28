@@ -936,5 +936,7 @@ WHERE status = 'completed';
 
 ---
 
-**Chuẩn bị cho Day-003: Primary Key - Định danh duy nhất** 🚀
 
+
+
+**Chuẩn bị cho [Day-003: Primary-Key](../Day-003-Primary-Key/theory.md)** 🚀

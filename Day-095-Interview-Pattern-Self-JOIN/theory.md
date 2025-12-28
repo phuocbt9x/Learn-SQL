@@ -93,3 +93,6 @@ Cần hiển thị employee hierarchy → cần query manager của mỗi employ
 ---
 
 **Chuẩn bị cho Phase 5.5!** 🚀
+
+
+**Chuẩn bị cho [Day-096: Interview-Pattern-Pivot-Unpivot](../Day-096-Interview-Pattern-Pivot-Unpivot/theory.md)** 🚀

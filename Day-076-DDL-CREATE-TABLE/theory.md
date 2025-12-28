@@ -331,5 +331,7 @@ CREATE TABLE users (
 
 ---
 
-**Chuẩn bị cho Day-077: DDL - ALTER TABLE** 🚀
 
+
+
+**Chuẩn bị cho [Day-077: DDL-ALTER-TABLE](../Day-077-DDL-ALTER-TABLE/theory.md)** 🚀

@@ -288,5 +288,7 @@ INSERT INTO users (email, name) VALUES
 
 ---
 
-**Chuẩn bị cho Day-080: DML - UPDATE** 🚀
 
+
+
+**Chuẩn bị cho [Day-080: DML-UPDATE](../Day-080-DML-UPDATE/theory.md)** 🚀

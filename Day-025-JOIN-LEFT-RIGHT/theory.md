@@ -64,3 +64,6 @@ RIGHT JOIN orders o ON u.id = o.user_id;
 ---
 
 **Chuẩn bị cho Phase 2.3!** 🚀
+
+
+**Chuẩn bị cho [Day-026: JOIN-FULL-OUTER](../Day-026-JOIN-FULL-OUTER/theory.md)** 🚀

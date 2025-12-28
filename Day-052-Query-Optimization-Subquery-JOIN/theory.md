@@ -74,4 +74,6 @@ Rewrite thành JOIN → nhanh 1s (nhanh hơn 20x).
 
 ---
 
-**Chuẩn bị cho Day-053: Query Optimization - Avoid SELECT *** 🚀
+
+
+**Chuẩn bị cho [Day-053: Query-Optimization-Avoid-SELECT-Star](../Day-053-Query-Optimization-Avoid-SELECT-Star/theory.md)** 🚀

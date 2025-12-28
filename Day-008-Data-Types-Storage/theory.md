@@ -824,5 +824,7 @@ WHERE price > 100;
 
 ---
 
-**Chuẩn bị cho Day-009: Index - Cơ bản về chỉ mục** 🚀
 
+
+
+**Chuẩn bị cho [Day-009: Index-Basics](../Day-009-Index-Basics/theory.md)** 🚀

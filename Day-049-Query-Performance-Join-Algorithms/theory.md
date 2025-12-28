@@ -75,4 +75,6 @@ Tạo index hoặc force Hash Join → query nhanh 1s.
 
 ---
 
-**Chuẩn bị cho Day-050: Query Performance - Sort & Aggregation** 🚀
+
+
+**Chuẩn bị cho [Day-050: Query-Performance-Sort-Aggregation](../Day-050-Query-Performance-Sort-Aggregation/theory.md)** 🚀

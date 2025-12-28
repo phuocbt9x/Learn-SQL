@@ -70,3 +70,6 @@ Partial index chỉ active orders → 2GB (giảm 80%).
 ---
 
 **Chuẩn bị cho Phase 3.2!** 🚀
+
+
+**Chuẩn bị cho [Day-046: Index-Unique](../Day-046-Index-Unique/theory.md)** 🚀

@@ -75,3 +75,6 @@ ANALYZE orders;
 ---
 
 **Chuẩn bị cho Phase 3.4!** 🚀
+
+
+**Chuẩn bị cho [Day-056: Query-Hints](../Day-056-Query-Hints/theory.md)** 🚀

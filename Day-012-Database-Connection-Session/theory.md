@@ -381,5 +381,7 @@ AND state_change < now() - interval '5 minutes';
 
 ---
 
-**Chuẩn bị cho Day-013: ACID Properties - Nền tảng Transaction** 🚀
 
+
+
+**Chuẩn bị cho [Day-013: ACID-Properties](../Day-013-ACID-Properties/theory.md)** 🚀

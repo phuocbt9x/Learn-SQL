@@ -306,5 +306,7 @@ AND id IN (SELECT id FROM logs ... LIMIT 10000);
 
 ---
 
-**Chuẩn bị cho Day-082: Stored Procedures - Giới thiệu** 🚀
 
+
+
+**Chuẩn bị cho [Day-082: Stored-Procedures-Introduction](../Day-082-Stored-Procedures-Introduction/theory.md)** 🚀

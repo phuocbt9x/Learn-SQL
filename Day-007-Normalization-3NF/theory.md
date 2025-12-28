@@ -688,5 +688,7 @@ def get_order_with_user(order_id):
 
 ---
 
-**Chuẩn bị cho Day-008: Data Types & Storage - Hiểu sâu về lưu trữ** 🚀
 
+
+
+**Chuẩn bị cho [Day-008: Data-Types-Storage](../Day-008-Data-Types-Storage/theory.md)** 🚀

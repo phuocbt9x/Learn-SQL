@@ -158,5 +158,7 @@ Developer xóa nhầm table `users` trong production → mất 1 triệu users.
 
 ---
 
-**Chuẩn bị cho Day-087: Monitoring - Slow Query Log** 🚀
 
+
+
+**Chuẩn bị cho [Day-087: Monitoring-Slow-Query-Log](../Day-087-Monitoring-Slow-Query-Log/theory.md)** 🚀

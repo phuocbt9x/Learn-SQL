@@ -78,4 +78,6 @@ Index (created_at, user_id) → query WHERE user_id = ... không dùng được.
 
 ---
 
-**Chuẩn bị cho Day-045: Index Types - Partial Index** 🚀
+
+
+**Chuẩn bị cho [Day-045: Index-Partial-Covering](../Day-045-Index-Partial-Covering/theory.md)** 🚀

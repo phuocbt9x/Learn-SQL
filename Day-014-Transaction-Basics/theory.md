@@ -307,5 +307,7 @@ def process_payment(user_id, order_id, amount):
 
 ---
 
-**Chuẩn bị cho Day-015: Review Phase 1 - Tổng hợp Foundations** 🚀
 
+
+
+**Chuẩn bị cho [Day-015: Transaction-Isolation-Levels](../Day-015-Transaction-Isolation-Levels/theory.md)** 🚀

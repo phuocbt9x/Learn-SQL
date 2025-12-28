@@ -93,4 +93,6 @@ Tạo index trên column sort → query nhanh hơn 1000x.
 
 ---
 
-**Chuẩn bị cho Day-019: LIMIT & OFFSET** 🚀
+
+
+**Chuẩn bị cho [Day-019: LIMIT-OFFSET](../Day-019-LIMIT-OFFSET/theory.md)** 🚀

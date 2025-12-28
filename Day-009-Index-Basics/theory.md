@@ -664,5 +664,7 @@ ORDER BY idx_scan;
 
 ---
 
-**Chuẩn bị cho Day-010: Logical vs Physical Design** 🚀
 
+
+
+**Chuẩn bị cho [Day-010: Logical-vs-Physical-Design](../Day-010-Logical-vs-Physical-Design/theory.md)** 🚀

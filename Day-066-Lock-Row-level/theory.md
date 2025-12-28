@@ -68,4 +68,6 @@ Dùng SELECT FOR UPDATE → prevent race condition.
 
 ---
 
-**Chuẩn bị cho Day-067: Lock - Table-level Lock** 🚀
+
+
+**Chuẩn bị cho [Day-067: Lock-Table-level](../Day-067-Lock-Table-level/theory.md)** 🚀

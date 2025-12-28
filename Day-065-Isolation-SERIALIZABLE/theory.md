@@ -64,3 +64,6 @@ SET TRANSACTION ISOLATION LEVEL SERIALIZABLE;
 ---
 
 **Chuẩn bị cho Phase 4.2!** 🚀
+
+
+**Chuẩn bị cho [Day-066: Lock-Row-level](../Day-066-Lock-Row-level/theory.md)** 🚀

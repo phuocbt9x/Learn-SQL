@@ -79,4 +79,6 @@ Deadlock xảy ra thường xuyên → transactions bị rollback.
 
 ---
 
-**Chuẩn bị cho Day-069: MVCC** 🚀
+
+
+**Chuẩn bị cho [Day-069: MVCC](../Day-069-MVCC/theory.md)** 🚀

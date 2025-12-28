@@ -737,5 +737,7 @@ CREATE TABLE employees (
 
 ---
 
-**Chuẩn bị cho Day-005: Normalization - Chuẩn hóa dữ liệu (1NF)** 🚀
 
+
+
+**Chuẩn bị cho [Day-005: Normalization-1NF](../Day-005-Normalization-1NF/theory.md)** 🚀

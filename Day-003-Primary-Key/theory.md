@@ -660,5 +660,7 @@ CREATE TABLE orders (
 
 ---
 
-**Chuẩn bị cho Day-004: Foreign Key - Mối quan hệ giữa các bảng** 🚀
 
+
+
+**Chuẩn bị cho [Day-004: Foreign-Key](../Day-004-Foreign-Key/theory.md)** 🚀

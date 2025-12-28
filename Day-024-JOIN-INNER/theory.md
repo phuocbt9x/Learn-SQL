@@ -83,4 +83,6 @@ JOIN đúng thứ tự → query nhanh.
 
 ---
 
-**Chuẩn bị cho Day-025: JOIN - LEFT/RIGHT JOIN** 🚀
+
+
+**Chuẩn bị cho [Day-025: JOIN-LEFT-RIGHT](../Day-025-JOIN-LEFT-RIGHT/theory.md)** 🚀

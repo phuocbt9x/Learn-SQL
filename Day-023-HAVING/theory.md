@@ -59,4 +59,6 @@ Dùng HAVING với aggregate → đúng.
 
 ---
 
-**Chuẩn bị cho Day-024: JOIN - INNER JOIN** 🚀
+
+
+**Chuẩn bị cho [Day-024: JOIN-INNER](../Day-024-JOIN-INNER/theory.md)** 🚀

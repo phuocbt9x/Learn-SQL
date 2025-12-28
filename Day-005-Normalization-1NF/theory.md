@@ -681,5 +681,7 @@ def create_order(user_id, items, total_amount):
 
 ---
 
-**Chuẩn bị cho Day-006: Normalization - 2NF (Second Normal Form)** 🚀
 
+
+
+**Chuẩn bị cho [Day-006: Normalization-2NF](../Day-006-Normalization-2NF/theory.md)** 🚀

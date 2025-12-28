@@ -79,4 +79,6 @@ Dùng cursor-based pagination → query nhanh < 100ms.
 
 ---
 
-**Chuẩn bị cho Day-020: DISTINCT** 🚀
+
+
+**Chuẩn bị cho [Day-020: DISTINCT](../Day-020-DISTINCT/theory.md)** 🚀

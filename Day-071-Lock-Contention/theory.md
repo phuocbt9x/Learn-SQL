@@ -64,4 +64,6 @@ Short transactions, lock only needed → lock wait time giảm 90%.
 
 ---
 
-**Chuẩn bị cho Day-072: Optimistic vs Pessimistic Locking** 🚀
+
+
+**Chuẩn bị cho [Day-072: Optimistic-vs-Pessimistic-Locking](../Day-072-Optimistic-vs-Pessimistic-Locking/theory.md)** 🚀

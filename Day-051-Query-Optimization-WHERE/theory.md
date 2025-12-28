@@ -75,4 +75,6 @@ Query dùng `UPPER(email)` trong WHERE → không dùng index → chậm 10s.
 
 ---
 
-**Chuẩn bị cho Day-052: Query Optimization - Subquery to JOIN** 🚀
+
+
+**Chuẩn bị cho [Day-052: Query-Optimization-Subquery-JOIN](../Day-052-Query-Optimization-Subquery-JOIN/theory.md)** 🚀

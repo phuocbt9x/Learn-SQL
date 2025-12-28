@@ -83,4 +83,6 @@ Cần financial report với running balance cho mỗi account.
 
 ---
 
-**Chuẩn bị cho Day-094: Interview Pattern - Gap Analysis** 🚀
+
+
+**Chuẩn bị cho [Day-094: Interview-Pattern-Gap-Analysis](../Day-094-Interview-Pattern-Gap-Analysis/theory.md)** 🚀

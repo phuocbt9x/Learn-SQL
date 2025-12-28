@@ -328,3 +328,6 @@ LIMIT 10;
 
 **Chuẩn bị cho Phase 2: Core SQL Query Language** 🚀
 
+
+
+**Chuẩn bị cho [Day-016: SELECT-Basics](../Day-016-SELECT-Basics/theory.md)** 🚀

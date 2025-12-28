@@ -68,4 +68,6 @@ Query dùng UNION → chậm 5s.
 
 ---
 
-**Chuẩn bị cho Day-033: CASE Expression** 🚀
+
+
+**Chuẩn bị cho [Day-033: CASE-Expression](../Day-033-CASE-Expression/theory.md)** 🚀

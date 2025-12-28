@@ -76,3 +76,6 @@ FROM users u;
 ---
 
 **Chuẩn bị cho Phase 2.4!** 🚀
+
+
+**Chuẩn bị cho [Day-031: CTE-WITH](../Day-031-CTE-WITH/theory.md)** 🚀

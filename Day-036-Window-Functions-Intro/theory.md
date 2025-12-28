@@ -92,4 +92,6 @@ Dùng Window Functions → đơn giản, nhanh hơn.
 
 ---
 
-**Chuẩn bị cho Day-037: Window Functions - RANK** 🚀
+
+
+**Chuẩn bị cho [Day-037: Window-Functions-RANK](../Day-037-Window-Functions-RANK/theory.md)** 🚀

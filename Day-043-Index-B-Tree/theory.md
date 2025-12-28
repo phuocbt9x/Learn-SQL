@@ -75,4 +75,6 @@ Tạo B-Tree index → query nhanh 0.05s (nhanh hơn 100x).
 
 ---
 
-**Chuẩn bị cho Day-044: Index Types - Composite Index** 🚀
+
+
+**Chuẩn bị cho [Day-044: Index-Composite](../Day-044-Index-Composite/theory.md)** 🚀

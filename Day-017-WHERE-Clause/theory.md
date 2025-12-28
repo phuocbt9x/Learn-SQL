@@ -181,4 +181,6 @@ WHERE amount > 0 OR amount IS NULL;
 
 ---
 
-**Chuẩn bị cho Day-018: ORDER BY - Sắp xếp kết quả** 🚀
+
+
+**Chuẩn bị cho [Day-018: ORDER-BY](../Day-018-ORDER-BY/theory.md)** 🚀

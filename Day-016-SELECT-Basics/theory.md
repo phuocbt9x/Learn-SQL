@@ -367,5 +367,7 @@ Execution Time: 0.123 ms
 
 ---
 
-**Chuẩn bị cho Day-017: WHERE - Điều kiện lọc dữ liệu** 🚀
 
+
+
+**Chuẩn bị cho [Day-017: WHERE-Clause](../Day-017-WHERE-Clause/theory.md)** 🚀

@@ -78,3 +78,6 @@ Sau Day này, bạn sẽ:
 ---
 
 **Chuẩn bị cho Phase 4: Transactions & Concurrency** 🚀
+
+
+**Chuẩn bị cho [Day-061: Transaction-Deep-Dive](../Day-061-Transaction-Deep-Dive/theory.md)** 🚀

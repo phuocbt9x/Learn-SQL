@@ -78,4 +78,6 @@ Cần query toàn bộ organization tree → dùng recursive CTE.
 
 ---
 
-**Chuẩn bị cho Day-098: Interview Pattern - Complex Joins** 🚀
+
+
+**Chuẩn bị cho [Day-098: Interview-Pattern-Complex-Joins](../Day-098-Interview-Pattern-Complex-Joins/theory.md)** 🚀

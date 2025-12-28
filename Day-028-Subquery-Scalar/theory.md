@@ -81,4 +81,6 @@ Dùng JOIN thay vì subquery → 1 query.
 
 ---
 
-**Chuẩn bị cho Day-029: Subquery - EXISTS vs IN** 🚀
+
+
+**Chuẩn bị cho [Day-029: Subquery-EXISTS-IN](../Day-029-Subquery-EXISTS-IN/theory.md)** 🚀

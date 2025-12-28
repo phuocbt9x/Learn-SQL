@@ -67,4 +67,6 @@ Read từ primary sau khi write → đảm bảo consistency.
 
 ---
 
-**Chuẩn bị cho Day-075: Review Phase 4** 🚀
+
+
+**Chuẩn bị cho [Day-075: Review-Phase4](../Day-075-Review-Phase4/theory.md)** 🚀
