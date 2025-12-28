@@ -78,4 +78,4 @@ Sau Day này, bạn sẽ:
 **Chuẩn bị cho Phase 5: Production SQL & Interview Patterns** 🚀
 
 
-**Chuẩn bị cho [Day-076: DDL-CREATE-TABLE](../Day-076-DDL-CREATE-TABLE/theory.md)** 🚀
+**Chuẩn bị cho [Day-076: DDL-CREATE-TABLE](Day-076-DDL-CREATE-TABLE/theory.md)** 🚀

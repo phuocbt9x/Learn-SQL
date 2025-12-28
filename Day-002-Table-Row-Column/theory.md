@@ -939,4 +939,4 @@ WHERE status = 'completed';
 
 
 
-**Chuẩn bị cho [Day-003: Primary-Key](../Day-003-Primary-Key/theory.md)** 🚀
+**Chuẩn bị cho [Day-003: Primary-Key](Day-003-Primary-Key/theory.md)** 🚀

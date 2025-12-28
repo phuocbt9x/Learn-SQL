@@ -73,4 +73,4 @@ Cursor-based pagination + index → nhanh 0.1s.
 
 
 
-**Chuẩn bị cho [Day-055: Statistics-Query-Planner](../Day-055-Statistics-Query-Planner/theory.md)** 🚀
+**Chuẩn bị cho [Day-055: Statistics-Query-Planner](Day-055-Statistics-Query-Planner/theory.md)** 🚀

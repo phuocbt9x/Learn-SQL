@@ -73,4 +73,4 @@ Tạo covering index → Index Only Scan → nhanh 0.1s (nhanh hơn 10x).
 
 
 
-**Chuẩn bị cho [Day-048: Query-Performance-Full-Table-Scan](../Day-048-Query-Performance-Full-Table-Scan/theory.md)** 🚀
+**Chuẩn bị cho [Day-048: Query-Performance-Full-Table-Scan](Day-048-Query-Performance-Full-Table-Scan/theory.md)** 🚀

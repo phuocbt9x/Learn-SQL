@@ -86,4 +86,4 @@ Cần tìm missing dates trong sales data → identify data quality issues.
 
 
 
-**Chuẩn bị cho [Day-095: Interview-Pattern-Self-JOIN](../Day-095-Interview-Pattern-Self-JOIN/theory.md)** 🚀
+**Chuẩn bị cho [Day-095: Interview-Pattern-Self-JOIN](Day-095-Interview-Pattern-Self-JOIN/theory.md)** 🚀

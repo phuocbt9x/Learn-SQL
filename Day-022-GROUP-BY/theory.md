@@ -81,4 +81,4 @@ Tạo index trên columns GROUP BY → query nhanh hơn 100x.
 
 
 
-**Chuẩn bị cho [Day-023: HAVING](../Day-023-HAVING/theory.md)** 🚀
+**Chuẩn bị cho [Day-023: HAVING](Day-023-HAVING/theory.md)** 🚀

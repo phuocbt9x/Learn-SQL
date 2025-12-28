@@ -92,4 +92,4 @@ Dùng CASE trong SQL → logic rõ ràng, dễ maintain.
 
 
 
-**Chuẩn bị cho [Day-034: String-Functions](../Day-034-String-Functions/theory.md)** 🚀
+**Chuẩn bị cho [Day-034: String-Functions](Day-034-String-Functions/theory.md)** 🚀

@@ -77,4 +77,4 @@ Partitioning theo tháng → query chỉ scan 1 partition → nhanh 0.1s (nhanh 
 
 
 
-**Chuẩn bị cho [Day-059: Performance-Anti-patterns](../Day-059-Performance-Anti-patterns/theory.md)** 🚀
+**Chuẩn bị cho [Day-059: Performance-Anti-patterns](Day-059-Performance-Anti-patterns/theory.md)** 🚀

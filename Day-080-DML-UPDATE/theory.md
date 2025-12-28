@@ -308,4 +308,4 @@ WHERE category_id = 1 AND id BETWEEN 1 AND 10000;
 
 
 
-**Chuẩn bị cho [Day-081: DML-DELETE](../Day-081-DML-DELETE/theory.md)** 🚀
+**Chuẩn bị cho [Day-081: DML-DELETE](Day-081-DML-DELETE/theory.md)** 🚀

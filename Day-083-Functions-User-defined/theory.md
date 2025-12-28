@@ -107,4 +107,4 @@ Tạo function `calculate_discount` → tất cả dùng cùng function → nh�
 
 
 
-**Chuẩn bị cho [Day-084: Triggers](../Day-084-Triggers/theory.md)** 🚀
+**Chuẩn bị cho [Day-084: Triggers](Day-084-Triggers/theory.md)** 🚀

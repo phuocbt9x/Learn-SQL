@@ -310,4 +310,4 @@ def process_payment(user_id, order_id, amount):
 
 
 
-**Chuẩn bị cho [Day-015: Transaction-Isolation-Levels](../Day-015-Transaction-Isolation-Levels/theory.md)** 🚀
+**Chuẩn bị cho [Day-015: Transaction-Isolation-Levels](Day-015-Transaction-Isolation-Levels/theory.md)** 🚀

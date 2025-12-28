@@ -421,4 +421,4 @@ Khi có **500 users**:
 
 
 
-**Chuẩn bị cho [Day-002: Table-Row-Column](../Day-002-Table-Row-Column/theory.md)** 🚀
+**Chuẩn bị cho [Day-002: Table-Row-Column](Day-002-Table-Row-Column/theory.md)** 🚀

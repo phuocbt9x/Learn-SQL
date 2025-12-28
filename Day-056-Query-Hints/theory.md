@@ -75,4 +75,4 @@ Force index → query nhanh (temporary fix, cần fix root cause).
 
 
 
-**Chuẩn bị cho [Day-057: Materialized-Views](../Day-057-Materialized-Views/theory.md)** 🚀
+**Chuẩn bị cho [Day-057: Materialized-Views](Day-057-Materialized-Views/theory.md)** 🚀

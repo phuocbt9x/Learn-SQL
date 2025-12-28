@@ -118,4 +118,4 @@ Application không validate → invalid data vào database → business logic er
 
 
 
-**Chuẩn bị cho [Day-092: Interview-Pattern-Top-N-per-Group](../Day-092-Interview-Pattern-Top-N-per-Group/theory.md)** 🚀
+**Chuẩn bị cho [Day-092: Interview-Pattern-Top-N-per-Group](Day-092-Interview-Pattern-Top-N-per-Group/theory.md)** 🚀

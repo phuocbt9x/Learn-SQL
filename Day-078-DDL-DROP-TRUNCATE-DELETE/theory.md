@@ -225,4 +225,4 @@ SELECT * FROM users WHERE deleted_at IS NULL;
 
 
 
-**Chuẩn bị cho [Day-079: DML-INSERT](../Day-079-DML-INSERT/theory.md)** 🚀
+**Chuẩn bị cho [Day-079: DML-INSERT](Day-079-DML-INSERT/theory.md)** 🚀

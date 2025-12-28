@@ -320,4 +320,4 @@ ALTER TABLE users ADD COLUMN phone VARCHAR(20),
 
 
 
-**Chuẩn bị cho [Day-078: DDL-DROP-TRUNCATE-DELETE](../Day-078-DDL-DROP-TRUNCATE-DELETE/theory.md)** 🚀
+**Chuẩn bị cho [Day-078: DDL-DROP-TRUNCATE-DELETE](Day-078-DDL-DROP-TRUNCATE-DELETE/theory.md)** 🚀

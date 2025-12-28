@@ -90,4 +90,4 @@ READ UNCOMMITTED → đọc uncommitted data → hiển thị data sai.
 
 
 
-**Chuẩn bị cho [Day-063: Isolation-READ-COMMITTED](../Day-063-Isolation-READ-COMMITTED/theory.md)** 🚀
+**Chuẩn bị cho [Day-063: Isolation-READ-COMMITTED](Day-063-Isolation-READ-COMMITTED/theory.md)** 🚀

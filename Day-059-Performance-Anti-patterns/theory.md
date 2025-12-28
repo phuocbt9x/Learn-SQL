@@ -100,4 +100,4 @@ Identify và fix từng anti-pattern → performance tốt hơn.
 
 
 
-**Chuẩn bị cho [Day-060: Review-Phase3](../Day-060-Review-Phase3/theory.md)** 🚀
+**Chuẩn bị cho [Day-060: Review-Phase3](Day-060-Review-Phase3/theory.md)** 🚀

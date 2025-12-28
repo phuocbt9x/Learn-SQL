@@ -90,4 +90,4 @@ Dùng CTE → query dễ đọc, dễ maintain hơn.
 
 
 
-**Chuẩn bị cho [Day-032: UNION-INTERSECT-EXCEPT](../Day-032-UNION-INTERSECT-EXCEPT/theory.md)** 🚀
+**Chuẩn bị cho [Day-032: UNION-INTERSECT-EXCEPT](Day-032-UNION-INTERSECT-EXCEPT/theory.md)** 🚀

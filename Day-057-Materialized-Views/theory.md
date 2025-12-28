@@ -80,4 +80,4 @@ Tạo Materialized View → query nhanh 0.5s (nhanh hơn 60x).
 
 
 
-**Chuẩn bị cho [Day-058: Partitioning-Concept](../Day-058-Partitioning-Concept/theory.md)** 🚀
+**Chuẩn bị cho [Day-058: Partitioning-Concept](Day-058-Partitioning-Concept/theory.md)** 🚀

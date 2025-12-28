@@ -87,4 +87,4 @@ Optimistic locking → ít locks → better concurrency.
 
 
 
-**Chuẩn bị cho [Day-073: Transaction-Best-Practices](../Day-073-Transaction-Best-Practices/theory.md)** 🚀
+**Chuẩn bị cho [Day-073: Transaction-Best-Practices](Day-073-Transaction-Best-Practices/theory.md)** 🚀

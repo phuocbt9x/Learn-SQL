@@ -252,4 +252,4 @@ CALL create_order_complex(user_id, items);
 
 
 
-**Chuẩn bị cho [Day-083: Functions-User-defined](../Day-083-Functions-User-defined/theory.md)** 🚀
+**Chuẩn bị cho [Day-083: Functions-User-defined](Day-083-Functions-User-defined/theory.md)** 🚀

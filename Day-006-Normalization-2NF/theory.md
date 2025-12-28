@@ -665,4 +665,4 @@ GROUP BY p.product_category;
 
 
 
-**Chuẩn bị cho [Day-007: Normalization-3NF](../Day-007-Normalization-3NF/theory.md)** 🚀
+**Chuẩn bị cho [Day-007: Normalization-3NF](Day-007-Normalization-3NF/theory.md)** 🚀

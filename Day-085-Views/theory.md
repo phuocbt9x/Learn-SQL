@@ -79,4 +79,4 @@ Tạo view với WHERE clause → users chỉ query view → chỉ thấy data c
 **Chuẩn bị cho Phase 5.3!** 🚀
 
 
-**Chuẩn bị cho [Day-086: Backup-Restore-Concept](../Day-086-Backup-Restore-Concept/theory.md)** 🚀
+**Chuẩn bị cho [Day-086: Backup-Restore-Concept](Day-086-Backup-Restore-Concept/theory.md)** 🚀

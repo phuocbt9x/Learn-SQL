@@ -81,4 +81,4 @@ Nhiều transaction issues → performance tệ.
 
 
 
-**Chuẩn bị cho [Day-074: Read-Replicas-Consistency](../Day-074-Read-Replicas-Consistency/theory.md)** 🚀
+**Chuẩn bị cho [Day-074: Read-Replicas-Consistency](Day-074-Read-Replicas-Consistency/theory.md)** 🚀

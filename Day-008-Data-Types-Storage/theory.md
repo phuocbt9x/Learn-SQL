@@ -827,4 +827,4 @@ WHERE price > 100;
 
 
 
-**Chuẩn bị cho [Day-009: Index-Basics](../Day-009-Index-Basics/theory.md)** 🚀
+**Chuẩn bị cho [Day-009: Index-Basics](Day-009-Index-Basics/theory.md)** 🚀

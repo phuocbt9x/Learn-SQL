@@ -67,4 +67,4 @@ Dùng GROUP BY hoặc optimize query.
 **Chuẩn bị cho Phase 2.2!** 🚀
 
 
-**Chuẩn bị cho [Day-021: Aggregate-Functions](../Day-021-Aggregate-Functions/theory.md)** 🚀
+**Chuẩn bị cho [Day-021: Aggregate-Functions](Day-021-Aggregate-Functions/theory.md)** 🚀

@@ -83,4 +83,4 @@ Application có SQL injection vulnerability → attacker lấy được data.
 
 
 
-**Chuẩn bị cho [Day-090: Data-Quality-NULL-Handling](../Day-090-Data-Quality-NULL-Handling/theory.md)** 🚀
+**Chuẩn bị cho [Day-090: Data-Quality-NULL-Handling](Day-090-Data-Quality-NULL-Handling/theory.md)** 🚀

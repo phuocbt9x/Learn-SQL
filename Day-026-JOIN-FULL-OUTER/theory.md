@@ -70,4 +70,4 @@ Dùng FULL OUTER JOIN để tìm differences.
 
 
 
-**Chuẩn bị cho [Day-027: JOIN-Multiple-Tables](../Day-027-JOIN-Multiple-Tables/theory.md)** 🚀
+**Chuẩn bị cho [Day-027: JOIN-Multiple-Tables](Day-027-JOIN-Multiple-Tables/theory.md)** 🚀

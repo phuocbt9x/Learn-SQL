@@ -61,4 +61,4 @@ Dùng HAVING với aggregate → đúng.
 
 
 
-**Chuẩn bị cho [Day-024: JOIN-INNER](../Day-024-JOIN-INNER/theory.md)** 🚀
+**Chuẩn bị cho [Day-024: JOIN-INNER](Day-024-JOIN-INNER/theory.md)** 🚀
